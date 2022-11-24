@@ -6,12 +6,13 @@ Asian Conference on Computer Vision (ACCV), 2022
 ## Codes
 To be updated soon.
 ## Paper and Citation
-The paper can be downloaded from [arXiv](https://arxiv.org/abs/2111.12242).  
+The paper can be downloaded from [arXiv](https://arxiv.org/abs/2111.12242) and [CVF](https://openaccess.thecvf.com/content/ACCV2022/papers/Qiu_PU-Transformer_Point_Cloud_Upsampling_Transformer_ACCV_2022_paper.pdf).  
 If you find our paper/code is useful, please cite:
 
-        @article{qiu2021pu,
+        @inproceedings{qiu2022pu,
           title={Pu-transformer: Point cloud upsampling transformer},
           author={Qiu, Shi and Anwar, Saeed and Barnes, Nick},
-          journal={arXiv preprint arXiv:2111.12242},
-          year={2021}
+          booktitle={Proceedings of the Asian Conference on Computer Vision},
+          pages={2475--2493},
+          year={2022}
         }
